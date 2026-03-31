@@ -1,5 +1,11 @@
 AI Predictor & Visualizer
 
+Name: Vedansh Singh Tomar
+
+Registration Number: 25BAI11509
+
+Course: B.Tech CSE (AI & ML)
+
 A beginner-friendly yet powerful AI project that demonstrates how machines learn patterns from data and visualize predictions using Python.
 
 Overview
@@ -110,9 +116,6 @@ Future Enhancements
 * Build a GUI/web interface
 * Add accuracy metrics and evaluation
 
-Name: Vedansh Singh Tomar
-Registration Number: 25BAI11509
-Course: B.Tech CSE (AI & ML)
 
  Learning Outcomes
 
